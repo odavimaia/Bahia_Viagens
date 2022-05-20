@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bahia Viagens</string>
+    <string name="especiais">Especiais</string>
+    <string name="brasil">Brasil</string>
+    <string name="todo">Banner inicial dos pacotes</string>
+    <string name="r_243_99">R$ 243,99</string>
+    <string name="_2_dias">2 dias</string>
+    <string name="s_o_paulo">São Paulo</string>
+    <string name="preco_final">Preço Final: </string>
+    <string name="realizar_pagamento">Realizar Pagamento</string>
+    <string name="imagem_do_pacote">Imagem do Pacote</string>
+    <string name="descricao_pagamento">Digite as informações do cartão de crédito que você deseja utilizar para o pagamento</string>
+    <string name="valor_compra">Valor da compra: </string>
+    <string name="numero_cartao">Número do cartão</string>
+    <string name="mes_cartao">MM</string>
+    <string name="ano_cartao">AA</string>
+    <string name="cvc_cartao">CVV</string>
+    <string name="nome_no_cartao">Nome no cartão</string>
+    <string name="finalizar_compra">Finalizar Compra</string>
+    <string name="mascara_nome_cartao">abcdefghijklmnopqrstuvxwyzABCDEFGHIJKLMNOPQRSTUVXWYZ\u0020</string>
+    <string name="mensagem_parabens">Parabéns!</string>
+    <string name="mensagem_compra">Compra realizada com sucesso :)</string>
+    <string name="resumo_da_compra">Confira o resumo da compra:</string>
+</resources>
